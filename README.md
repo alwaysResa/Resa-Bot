@@ -1,119 +1,150 @@
-
-# Bot WhatsApp Multifungsi oleh RENZY
+# 🤖 Bot WhatsApp Multifungsi — RESA MD
 
 ![Versi](https://img.shields.io/badge/version-2.0.0-blue)
 ![Fitur](https://img.shields.io/badge/fitur-900%2B-brightgreen)
 ![Status](https://img.shields.io/badge/status-aktif-brightgreen)
 ![Lisensi](https://img.shields.io/badge/license-Proprietary-red)
 
-Bot WhatsApp canggih yang dibangun dengan Node.js. Dirancang untuk menjadi cepat, stabil, dan kaya fitur dengan desain yang *user-friendly*. Dengan arsitektur berbasis plugin, bot ini siap memenuhi segala kebutuhan Anda, mulai dari hiburan hingga alat bantu produktivitas.
+Bot WhatsApp canggih berbasis **Node.js**, dengan performa cepat, stabil, dan kaya fitur.  
+Didesain untuk *user-friendly*, mudah dikustomisasi, dan memiliki **arsitektur berbasis plugin** sehingga mudah di-*update*.
+
+---
 
 ## 🌟 Keunggulan
+<details>
+<summary>💬 Klik untuk lihat daftar keunggulan</summary>
 
-* 💬 **Support LID:** respon all group tanpa error karena sudah auto convert dari lid ke jid
-* ✅ **900+ Fitur Aktif:** Lebih baik memiliki 900+ fitur yang berjalan sempurna daripada 1000 fitur yang penuh error. 🤭
-* 📁 **35+ Submenu Aktif:** Semua menu telah dikelompokkan dengan rapi agar mudah diakses.
-* 🎀 **User Friendly:** Desain antarmuka yang lucu, imut, dan mudah digunakan oleh siapa saja.
-* ⚡ **Respon Cepat:** Dibangun untuk memberikan respon yang cepat dan stabil, tanpa lemot.
-* 💎 **Semi Scrape:** Menggunakan lebih dari 70% metode *scraping* untuk memastikan data dan fungsionalitas fitur selalu akurat.
-* 🔒 **Anti Bad Sesi:** Sistem yang lebih stabil untuk mencegah sesi koneksi yang korup atau terputus tiba-tiba.
-* 🔄 **GRATIS UPDATE:** Dapatkan pembaruan fitur dan perbaikan secara berkala tanpa biaya tambahan (dengan paket tertentu).
+- **Support LID** → Respon otomatis di semua grup, auto-convert dari LID ke JID.
+- **900+ Fitur Aktif** → Lebih baik 900 fitur lancar daripada 1000 fitur bug. 🤭
+- **35+ Submenu Aktif** → Menu tertata rapi, gampang dicari.
+- **User Friendly** → Antarmuka lucu, imut, tapi tetep gahar.
+- **Respon Cepat** → Optimasi speed tanpa lemot.
+- **Semi Scrape** → 70% scraping untuk data akurat.
+- **Anti Bad Sesi** → Stabil, mencegah sesi korup.
+- **Gratis Update** → Update rutin tanpa biaya (paket tertentu).
+</details>
 
 ---
 
 ## 🏆 Top Fitur
+<details>
+<summary>✨ Artificial Intelligence (AI)</summary>
 
-Bot ini dilengkapi dengan fitur-fitur modern dan canggih untuk memberikan pengalaman terbaik.
+- `txt2img` → Buat gambar dari teks.
+- `txt2video` → Buat video dari teks.
+- `txt2music` → Buat musik dari teks.
+- `img2text` → Ubah gambar jadi deskripsi.
+- Dan masih banyak lagi...
+</details>
 
-* ✨ **Artificial Intelligence (AI)**
-    Dukungan berbagai model AI untuk kreativitas tanpa batas:
-    - `txt2img`: Membuat gambar dari teks.
-    - `txt2video`: Membuat video dari teks.
-    - `txt2music`: Membuat musik dari teks.
-    - `img2text`: Mendeskripsikan isi gambar.
-    - ...dan banyak lagi!
+<details>
+<summary>🎥 Veo 3 AI Model</summary>
 
-* 🎥 **Veo 3 AI Model**
-    Gunakan model AI *state-of-the-art* Veo 3 untuk menghasilkan video viral langsung dari WhatsApp.
+- Hasilkan video viral langsung dari WhatsApp pakai teknologi terbaru **Veo 3**.
+</details>
 
-* 💫 **Tools Produktivitas**
-    Berbagai alat untuk mendukung kegiatan sehari-hari Anda:
-    - `HD Image`: Meningkatkan resolusi gambar menjadi HD.
-    - `Pertajam Gambar/Video`: Membuat media Anda lebih jelas dan tajam.
-    - `Hapus Background`: Menghilangkan latar belakang gambar secara otomatis.
-    - `Hapus Noise`: Menghilangkan noise pada audio atau media.
+<details>
+<summary>💫 Tools Produktivitas</summary>
 
-* 🌐 **Multi Downloader**
-    Fitur *All-in-One Downloader* yang mendukung unduhan dari hampir semua platform media sosial (YouTube, TikTok, Instagram, dll).
+- HD Image → Tingkatkan resolusi gambar.
+- Pertajam Gambar/Video → Lebih jelas & tajam.
+- Hapus Background → Latar belakang hilang otomatis.
+- Hapus Noise → Audio/media jadi bersih.
+</details>
 
-* 👾 **Game & RPG**
-    Tersedia 50+ game seru yang bisa Anda mainkan bersama teman-teman langsung di grup WhatsApp.
+<details>
+<summary>🌐 Multi Downloader</summary>
 
-* 😍 **Search Engine**
-    Dilengkapi mesin pencari internal untuk menemukan informasi apa pun dengan lebih cepat dan mudah.
+- Download dari YouTube, TikTok, Instagram, dan hampir semua platform populer.
+</details>
 
-* 📆 **Sistem Otomatis**
-    Atur jadwal untuk berbagai tugas:
-    - `Auto Reminder`: Pengingat otomatis untuk jadwal pribadi atau grup.
-    - `Auto Open/Close Group`: Mengatur grup untuk buka/tutup pada waktu yang ditentukan.
+<details>
+<summary>👾 Game & RPG</summary>
 
-* 💓 **Store Support**
-    Fitur `Addlist` yang memungkinkan Anda membuat daftar menu atau katalog produk kustom, sangat cocok untuk membantu bisnis online Anda.
+- 50+ game seru langsung dari WhatsApp grup.
+</details>
+
+<details>
+<summary>😍 Search Engine</summary>
+
+- Cari info apapun langsung di WhatsApp.
+</details>
+
+<details>
+<summary>📆 Sistem Otomatis</summary>
+
+- Auto Reminder → Jadwal otomatis.
+- Auto Open/Close Group → Atur buka/tutup grup sesuai waktu.
+</details>
+
+<details>
+<summary>💓 Store Support</summary>
+
+- `Addlist` → Buat katalog produk atau menu bisnis online.
+</details>
 
 ---
 
 ## 💰 Harga Script
-
-Dapatkan script bot ini dan wujudkan impian Anda sekarang!
-
 | Paket | Harga | Keterangan |
 | :--- | :--- | :--- |
-| **Paket Lengkap (Free Update)** | ~Rp 150.000~ **Rp 100.000** | Dapatkan script dan semua pembaruan fitur gratis selamanya. |
-| **Paket Basic (No Update)** | **Rp 50.000** | Dapatkan script versi saat ini tanpa pembaruan di masa depan. |
+| **Lengkap (Free Update)** | ~Rp150.000~ **Rp100.000** | Script + update selamanya. |
+| **Basic (No Update)** | **Rp50.000** | Script saja, tanpa update. |
 
 ---
 
 ## 🚀 Cara Menjalankan
+<details>
+<summary>Langkah-langkah Menjalankan Bot</summary>
 
-### 1. Konfigurasi
-Edit file `config.js`. Isi semua informasi yang diperlukan seperti nomor owner, nama bot, dan pengaturan lainnya.
+1. **Konfigurasi**  
+   Edit `config.js` → isi nomor owner, nama bot, dll.
 
-### 2. Menjalankan Bot
-Jalankan bot dengan perintah dasar:
-```bash
-node .
-````
+2. **Jalankan**  
+   ```bash
+   node .
 
-Scan kode QR yang muncul di terminal menggunakan WhatsApp Anda, dan bot siap digunakan\!
+Scan QR di terminal → Bot siap.
 
-### 3\. Opsi Lanjutan (Arguments)
+3. **Opsi Tambahan**
+   
+   Format:
 
-Anda dapat menjalankan bot dengan argumen tambahan untuk mengaktifkan mode atau fitur tertentu.
-Sintaks: `node . [--options] [<session name>]`
-Contoh: `node . --pairing`
+   ```bash
+   node . [--options] [<session name>]
+   ```
 
-| Argumen | Deskripsi |
-| :--- | :--- |
-| `--pairing` | Menghubungkan perangkat menggunakan kode pairing (lebih aman). |
-| `--mobile` | Menghubungkan perangkat via captcha mobile (rawan ban). |
-| `--self` | **Mode Self-Host:** Bot hanya bisa digunakan oleh nomor bot & owner. |
-| `--pconly` | **Private Chat Only:** Bot hanya merespon di chat pribadi (kecuali user premium). |
-| `--gconly` | **Group Only:** Bot hanya merespon di grup (kecuali user premium). |
-| `--swonly` | **Status Only:** Bot hanya akan merespon dari status WhatsApp. |
-| `--server` | Mode server, cocok untuk deployment di Heroku/Railway atau scan via website. |
-| `--restrict` | Mengaktifkan plugin terbatas yang berisiko **BANNED** jika sering digunakan (mis: `add`, `kick`). |
-| `--img` | Menampilkan pratinjau gambar yang diterima langsung di terminal. |
-| `--autoread` | Bot akan otomatis membaca (centang biru) semua pesan yang masuk. |
-| `--autocleartmp` | Otomatis menghapus file-file di dalam folder `tmp` secara berkala. |
-| `--nyimak` | **Mode Simak:** Bot tidak merespon, hanya menampilkan pesan di konsol dan menyimpan user ke database. |
-| `--test` | **Mode Development:** Untuk keperluan testing oleh developer. |
-| `--db <url>` | Terhubung ke database eksternal seperti MongoDB. Jika tidak diisi, akan menggunakan `database.json`. |
+   Contoh:
 
------
+   ```bash
+   node . --pairing
+   ```
 
-## 📂 Struktur Direktori Bot
+| Argumen          | Fungsi                        |
+| :--------------- | :---------------------------- |
+| `--pairing`      | Pairing code (lebih aman).    |
+| `--mobile`       | Pairing mobile captcha.       |
+| `--self`         | Mode hanya owner.             |
+| `--pconly`       | Respon hanya di private chat. |
+| `--gconly`       | Respon hanya di grup.         |
+| `--swonly`       | Respon hanya dari status WA.  |
+| `--server`       | Mode server (Heroku/Railway). |
+| `--restrict`     | Aktifkan plugin terbatas.     |
+| `--img`          | Preview gambar di terminal.   |
+| `--autoread`     | Auto centang biru.            |
+| `--autocleartmp` | Auto hapus file tmp.          |
+| `--nyimak`       | Mode simak (no respon).       |
+| `--test`         | Mode development.             |
+| `--db <url>`     | Pakai DB eksternal (MongoDB). |
 
-Proyek ini disusun dengan struktur folder yang jelas untuk memisahkan setiap komponen sesuai fungsinya.
+</details>
+
+---
+
+## 📂 Struktur Direktori
+
+<details>
+<summary>Lihat struktur folder</summary>
 
 ```
 .
@@ -132,12 +163,12 @@ Proyek ini disusun dengan struktur folder yang jelas untuk memisahkan setiap kom
 └── ...
 ```
 
------
+</details>
+
+---
 
 ## 📞 Kontak
 
-Tertarik? Hubungi saya untuk pembelian dan informasi lebih lanjut\!
+**Owner:** [WhatsApp](https://wa.me/6285117070328)
 
-  * **Owner:** [Hubungi via WhatsApp](https://wa.me/6285117070328)
-
-Dibuat dengan ❤️ oleh **RENZY**.
+Dibuat dengan ❤️ oleh **RENZY**
