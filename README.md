@@ -10,6 +10,7 @@ Bot WhatsApp canggih yang dibangun dengan Node.js. Dirancang untuk menjadi cepat
 
 ## 🌟 Keunggulan
 
+* 💬 **Support LID:** respon all group tanpa error karena sudah auto convert dari lid ke jid
 * ✅ **900+ Fitur Aktif:** Lebih baik memiliki 900+ fitur yang berjalan sempurna daripada 1000 fitur yang penuh error. 🤭
 * 📁 **35+ Submenu Aktif:** Semua menu telah dikelompokkan dengan rapi agar mudah diakses.
 * 🎀 **User Friendly:** Desain antarmuka yang lucu, imut, dan mudah digunakan oleh siapa saja.
