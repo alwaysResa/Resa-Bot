@@ -137,9 +137,6 @@ Proyek ini disusun dengan struktur folder yang jelas untuk memisahkan setiap kom
 
 Tertarik? Hubungi saya untuk pembelian dan informasi lebih lanjut\!
 
-  * **Owner:** [Hubungi via WhatsApp](https://www.google.com/search?q=https://wa.me/6285117070328)
+  * **Owner:** [Hubungi via WhatsApp](https://wa.me/6285117070328)
 
 Dibuat dengan ❤️ oleh **RENZY**.
-
-```
-```
